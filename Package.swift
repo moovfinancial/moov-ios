@@ -16,7 +16,7 @@ let package = Package(
     .binaryTarget(
       name: "MoovKit",
       url: "https://github.com/moovfinancial/moov-ios/releases/download/v0.12.0/MoovKit.xcframework.zip",
-      checksum: "49e45d1109c6cd5169dd30faede5bf920d9f668136a0f758ff9bc15389bd190d"
+      checksum: "916e84027683a51db55b104b3b533f2e8efcaf925a69cba4b6607a43cc8c7925"
     )
   ]
 )
